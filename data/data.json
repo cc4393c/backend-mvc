@@ -1,0 +1,26 @@
+{
+  "titles": {
+    "index": "Student List",
+    "detail": "Student Info"
+  },
+  "list": [
+    {
+      "id": 1,
+      "name": "Mike",
+      "age": 6,
+      "score": 6
+    },
+    {
+      "id": 2,
+      "name": "Tom",
+      "age": 8,
+      "score": 8
+    },
+    {
+      "id": 3,
+      "name": "Rose",
+      "age": 10,
+      "score": 10
+    }
+  ]
+}
